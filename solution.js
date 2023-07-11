@@ -131,3 +131,6 @@ function showThanksPage(e) {
 
 // TODO : add new feature here
 // 
+function addNewTitle(e) {
+	console.log("ok");
+}
