@@ -128,3 +128,6 @@ function showThanksPage(e) {
     e.preventDefault();
     changeContent('thank-you-content');
 }
+
+// TODO : add new feature here
+// 
